@@ -1,3 +1,3 @@
 # ProjectDemo
 <br>
-author Soham Sutar
+Author Soham Sutar
